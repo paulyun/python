@@ -1,0 +1,7 @@
+Patient: Paul
+Inpatient of Ourpatient: IN
+Days spent in the hospital: 3
+The daily rate: 3000
+Charges for hospital services (lab tests, etc.): 30000
+Hospital medication charges: 30000
+Final Cost: 69000.0

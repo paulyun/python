@@ -1,0 +1,14 @@
+StudentJones Tom scores are: 94 ,99 ,96 ,74 ,56 ,33 ,65 ,89 ,87 ,85 Maximum value is:99.0 Minimum value is:33.0 Average value is:77.8
+StudentThompson Frank scores are: 67 ,58 ,86 ,95 ,47 ,86 ,79 ,64 ,76 ,45 Maximum value is:95.0 Minimum value is:45.0 Average value is:70.3
+StudentJackson Tom scores are: 95 ,97 ,94 ,87 ,67 ,84 ,99 ,45 ,99 ,87 Maximum value is:99.0 Minimum value is:45.0 Average value is:85.4
+StudentJackson Michael scores are: 43 ,23 ,34 ,77 ,64 ,35 ,89 ,56 ,75 ,85 Maximum value is:89.0 Minimum value is:23.0 Average value is:58.1
+StudentJohnson Sara scores are: 84 ,93 ,64 ,57 ,89 ,99 ,74 ,64 ,75 ,35 Maximum value is:99.0 Minimum value is:35.0 Average value is:73.4
+StudentJosh Freeman scores are: 84 ,93 ,64 ,57 ,70 ,99 ,74 ,63.5 ,75 ,35 Maximum value is:99.0 Minimum value is:35.0 Average value is:71.45
+StudentMichael Vick scores are: 67 ,58 ,86 ,95 ,47 ,86 ,79 ,64 ,76 ,45 Maximum value is:95.0 Minimum value is:45.0 Average value is:70.3
+StudentMatt Schaub scores are: 43 ,23 ,34 ,77 ,64 ,35 ,89 ,56 ,75 ,85 Maximum value is:89.0 Minimum value is:23.0 Average value is:58.1
+StudentPhilip Rivers scores are: 94 ,99 ,96 ,74 ,56 ,33 ,65 ,89 ,87 ,85 Maximum value is:99.0 Minimum value is:33.0 Average value is:77.8
+StudentMatt Hasselback scores are: 87 ,78 ,86 ,95 ,47 ,86 ,79 ,64.75 ,76 ,45 Maximum value is:95.0 Minimum value is:45.0 Average value is:74.375
+StudentJimmy Clausen scores are: 43 ,86 ,34 ,77 ,64 ,35 ,89 ,56 ,75 ,85 Maximum value is:89.0 Minimum value is:34.0 Average value is:64.4
+StudentJoe Flacco scores are: 74 ,93 ,64 ,57 ,70 ,99 ,74 ,67 ,75 ,35 Maximum value is:99.0 Minimum value is:35.0 Average value is:70.8
+StudentKyle Orton scores are: 94 ,99 ,96 ,74 ,56 ,78 ,65 ,89 ,87 ,85 Maximum value is:99.0 Minimum value is:56.0 Average value is:82.3
+StudentJason Witten scores are: 80 ,75 ,96 ,74 ,56 ,33.5 ,65 ,89 ,87 ,85 Maximum value is:96.0 Minimum value is:33.5 Average value is:74.05
